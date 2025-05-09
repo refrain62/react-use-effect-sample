@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Counter from './components/Counter';
 import Timer from './components/Timer';
+import Fetchonce from './components/Fetchonce';
 
 function App() {
   const [isDisplay, setIsDisplay] = useState(true);
@@ -34,6 +35,9 @@ function App() {
           </button>
         </span>
         {isDisplay && <Timer setIsDisplay={setIsDisplay} />}
+
+        <br />
+        <Fetchonce />
       </header>
     </div>
   );

@@ -2,6 +2,12 @@
 # useEffectをちゃんと理解する
 https://qiita.com/diskszk/items/333511fb97d24f52a439
 
+
+# useEffectからfetchするときのベストプラクティス
+https://qiita.com/uhyo/items/dec319ced85fc1b83f86
+
+useEffectの中でfetch （取得系のリクエスト）しないでください
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
