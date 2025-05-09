@@ -8,6 +8,11 @@ https://qiita.com/uhyo/items/dec319ced85fc1b83f86
 
 useEffectの中でfetch （取得系のリクエスト）しないでください
 
+
+# React18 の Suspense は、これまでの Suspense と何が違うの？
+https://qiita.com/wataru86/items/3affe191d324cc7389d6
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
